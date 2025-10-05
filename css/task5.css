@@ -109,7 +109,7 @@ button {
 
 .hero {
     height: 981px;
-    background: linear-gradient(rgba(105, 16, 44, 0.158), rgba(65, 57, 59, 0.7)), url(../images/hero.png) no-repeat center;
+    background: linear-gradient(rgba(105, 16, 44, 0.158), rgba(65, 57, 59, 0.7)), url(../images/herotask5.png) no-repeat center;
     background-size: cover;
     display: flex;
     align-items: end;
